@@ -8,8 +8,10 @@ import io.cucumber.junit.CucumberOptions;
 
 
 @RunWith(Cucumber.class)
-@CucumberOptions(plugin= {"pretty", "html:target/myhtmlreports/rpt.html"},
-		tags="reg"
+@CucumberOptions(plugin= {"pretty", "html:target/myhtmlreports/rptwwwhhm00sr99t4.html"}
+		//tags="reg"
+
+
 	
 )
 
